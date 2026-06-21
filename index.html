@@ -504,7 +504,7 @@
 
   <!-- BUSINESS INFO -->
   <div class="card">
-    <div class="card-head"><h2>Your Business</h2></div>
+    <div class="card-head"><h2>Digital Heroes</h2></div>
     <div class="card-body">
       <div class="grid-2">
         <div class="field"><label>Business / Seller Name</label><input type="text" id="biz-name" placeholder="e.g. Ravi Designs" /></div>
@@ -833,7 +833,7 @@ function generateInvoice() {
   document.getElementById('invoice-doc').innerHTML = `
     <div class="inv-header">
       <div>
-        <div class="inv-biz-name">${g('biz-name') || 'Your Business'}</div>
+        <div class="inv-biz-name">${g('biz-name') || 'Digital Heroes'}</div>
         <div class="inv-biz-sub">${g('biz-addr') ? g('biz-addr').replace(/\n/g,'<br>') : ''}</div>
         ${g('biz-contact') ? `<div class="inv-biz-sub" style="margin-top:.25rem;">${g('biz-contact')}</div>` : ''}
         ${bizGstin ? `<div class="inv-biz-sub" style="margin-top:.25rem;">GSTIN: <strong>${bizGstin}</strong></div>` : ''}
