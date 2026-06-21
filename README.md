@@ -39,8 +39,9 @@ This tool helps businesses and freelancers generate GST-compliant invoices with 
 <img width="1920" height="994" alt="image" src="https://github.com/user-attachments/assets/d472ea81-bf1b-4ca3-a2ff-f9679a0e7ca7" />
 <img width="1920" height="1038" alt="image" src="https://github.com/user-attachments/assets/31b565b5-edee-4cc1-b18c-100fed2ffb2d" />
 <img width="1920" height="1028" alt="image" src="https://github.com/user-attachments/assets/e0b5aaa2-d7bd-4742-9fc9-9340ed5d10a2" />
-<img width="1920" height="985" alt="image" src="https://github.com/user-attachments/assets/75b00370-f80a-4cf4-be1b-631c7b77218d" />
+<img width="1920" height="993" alt="image" src="https://github.com/user-attachments/assets/49e35aee-2990-48cb-b4a1-fda69a2581c1" />
 <img width="1920" height="987" alt="image" src="https://github.com/user-attachments/assets/99eb165f-264b-416a-b050-219995f240ec" />
+<img width="1920" height="1034" alt="image" src="https://github.com/user-attachments/assets/7e2b3a4e-df5c-431d-ab5f-53f2cc5b0bde" />
 
 
 ## Project Structure
